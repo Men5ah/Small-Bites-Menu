@@ -1,0 +1,81 @@
+body {
+    background-image: url("African\ Print.jpg");
+    padding: 20px;
+}
+
+h2 {
+    font-family: monospace;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+    color: black;
+    font-family: monospace;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.page {
+    background-color: white;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    min-width: 300px;
+    padding: 20px;
+    max-height: 600px;
+}
+
+.item p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+.menu-item{
+    text-align: left;
+    width: 75%;
+}
+.price{
+    text-align: right;
+    width: 25%;
+}
+
+.top-hr{
+    background-color: black;
+    width: 200px;
+    height: 2px;
+    border-color: black;
+}
+.bottom-hr{
+    margin-top: 20px;
+    background-color: black;
+    width: 200px;
+    height: 2px;
+    border-color: black;
+}
+
+/*FOOTER*/
+.blog-link{
+    padding-top: 5px;
+}
+
+a:link {
+    color: black;
+}
+a:hover {
+    color: black;
+}
+a:visited {
+    color: black;
+}
+a:active {
+    color: black;
+}

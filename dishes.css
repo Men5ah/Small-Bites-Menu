@@ -1,0 +1,72 @@
+/*Elements*/
+body {
+    background-image: url("African\ Print.jpg");
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+hr{
+    background-color: black;
+    width: 200px;
+    height: 2px;
+    border-color: black;
+}
+
+h2 {
+    font-family: monospace;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+}
+
+h3 {
+    font-family: monospace;
+    color: black;
+    text-align: center;
+    font-size: 15px;
+}
+
+p {
+    text-align: justify;
+    font-size: 15px;
+    color: black;
+    font-family: monospace;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*Classes*/
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dish-info{
+    background-color: white;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    min-width: 300px;
+    padding: 20px;
+}
+
+/*Footer*/
+.blog-link{
+    padding-top: 5px;
+    text-align: center;
+}
+
+a:link {
+    color: black;
+}
+a:hover {
+    color: black;
+}
+a:visited {
+    color: black;
+}
+a:active {
+    color: black;
+}
